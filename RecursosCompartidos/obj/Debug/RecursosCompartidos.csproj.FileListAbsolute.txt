@@ -1,0 +1,10 @@
+D:\Dev\SisLad\RecursosCompartidos\bin\Debug\RecursosCompartidos.exe.config
+D:\Dev\SisLad\RecursosCompartidos\bin\Debug\RecursosCompartidos.exe
+D:\Dev\SisLad\RecursosCompartidos\bin\Debug\RecursosCompartidos.pdb
+D:\Dev\SisLad\RecursosCompartidos\obj\Debug\RecursosCompartidos.csproj.AssemblyReference.cache
+D:\Dev\SisLad\RecursosCompartidos\obj\Debug\RecursosCompartidos.Form1.resources
+D:\Dev\SisLad\RecursosCompartidos\obj\Debug\RecursosCompartidos.Properties.Resources.resources
+D:\Dev\SisLad\RecursosCompartidos\obj\Debug\RecursosCompartidos.csproj.GenerateResource.cache
+D:\Dev\SisLad\RecursosCompartidos\obj\Debug\RecursosCompartidos.csproj.CoreCompileInputs.cache
+D:\Dev\SisLad\RecursosCompartidos\obj\Debug\RecursosCompartidos.exe
+D:\Dev\SisLad\RecursosCompartidos\obj\Debug\RecursosCompartidos.pdb

@@ -1,0 +1,10 @@
+D:\Dev\SisLad\Utilidades\obj\Debug\Utilidades.csproj.AssemblyReference.cache
+D:\Dev\SisLad\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+D:\Dev\SisLad\Utilidades\bin\Debug\Utilidades.dll
+D:\Dev\SisLad\Utilidades\bin\Debug\Utilidades.pdb
+D:\Dev\SisLad\Utilidades\bin\Debug\RecursosCompartidos.exe
+D:\Dev\SisLad\Utilidades\bin\Debug\RecursosCompartidos.pdb
+D:\Dev\SisLad\Utilidades\bin\Debug\RecursosCompartidos.exe.config
+D:\Dev\SisLad\Utilidades\obj\Debug\Utilidades.csproj.CopyComplete
+D:\Dev\SisLad\Utilidades\obj\Debug\Utilidades.dll
+D:\Dev\SisLad\Utilidades\obj\Debug\Utilidades.pdb
